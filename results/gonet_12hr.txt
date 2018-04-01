@@ -1,0 +1,449 @@
+aerobic respiration	GO	cyoD
+aerobic respiration	GO	cyoC
+aerobic respiration	GO	cyoB
+aerobic respiration	GO	cyoA
+aerobic respiration	GO	sdhA
+aerobic respiration	GO	sdhB
+aerobic respiration	GO	sucA
+aerobic respiration	GO	sucC
+aerobic respiration	GO	fumC
+aerobic respiration	GO	nuoM
+aerobic respiration	GO	nuoI
+aerobic respiration	GO	nuoH
+aerobic respiration	GO	nuoG
+aerobic respiration	GO	nuoB
+aerobic respiration	GO	mdh
+aerobic respiration	GO	lldD
+arginine catabolic process	GO	sad
+arginine catabolic process	GO	astE
+arginine catabolic process	GO	astB
+arginine catabolic process	GO	astD
+arginine catabolic process	GO	astA
+arginine catabolic process	GO	astC
+arginine catabolic process	GO	yqeA
+arginine catabolic process	GO	adiA
+branched-chain amino acid biosynthetic process	GO	leuD
+branched-chain amino acid biosynthetic process	GO	leuC
+branched-chain amino acid biosynthetic process	GO	leuB
+branched-chain amino acid biosynthetic process	GO	leuA
+branched-chain amino acid biosynthetic process	GO	ilvB
+branched-chain amino acid biosynthetic process	GO	ilvE
+branched-chain amino acid biosynthetic process	GO	ilvD
+branched-chain amino acid biosynthetic process	GO	ilvA
+branched-chain amino acid metabolic process	GO	leuD
+branched-chain amino acid metabolic process	GO	leuC
+branched-chain amino acid metabolic process	GO	leuB
+branched-chain amino acid metabolic process	GO	leuA
+branched-chain amino acid metabolic process	GO	panE
+branched-chain amino acid metabolic process	GO	ilvB
+branched-chain amino acid metabolic process	GO	ilvE
+branched-chain amino acid metabolic process	GO	ilvD
+branched-chain amino acid metabolic process	GO	ilvA
+carbohydrate derivative biosynthetic process	GO	ddlB
+carbohydrate derivative biosynthetic process	GO	purK
+carbohydrate derivative biosynthetic process	GO	mrdA
+carbohydrate derivative biosynthetic process	GO	lpxK
+carbohydrate derivative biosynthetic process	GO	prsA
+carbohydrate derivative biosynthetic process	GO	dacD
+carbohydrate derivative biosynthetic process	GO	mepA
+carbohydrate derivative biosynthetic process	GO	purC
+carbohydrate derivative biosynthetic process	GO	upp
+carbohydrate derivative biosynthetic process	GO	pbpC
+carbohydrate derivative biosynthetic process	GO	purL
+carbohydrate derivative biosynthetic process	GO	mltB
+carbohydrate derivative biosynthetic process	GO	ygcM
+carbohydrate derivative biosynthetic process	GO	mtgA
+carbohydrate derivative biosynthetic process	GO	mrcA
+carbohydrate derivative biosynthetic process	GO	rfaC
+carbohydrate derivative biosynthetic process	GO	rfaL
+carbohydrate derivative biosynthetic process	GO	rfaI
+carbohydrate derivative biosynthetic process	GO	rfaB
+carbohydrate derivative biosynthetic process	GO	rfaS
+carbohydrate derivative biosynthetic process	GO	glmS
+carbohydrate derivative biosynthetic process	GO	glmU
+carbohydrate derivative biosynthetic process	GO	atpC
+carbohydrate derivative biosynthetic process	GO	atpB
+carbohydrate derivative biosynthetic process	GO	tpiA
+carbohydrate derivative biosynthetic process	GO	purA
+carbohydrate derivative biosynthetic process	GO	mdoB
+cation transport	GO	setA
+cation transport	GO	cyoD
+cation transport	GO	cyoC
+cation transport	GO	cyoB
+cation transport	GO	cyoA
+cation transport	GO	rhtA
+cation transport	GO	potF
+cation transport	GO	potG
+cation transport	GO	potH
+cation transport	GO	artQ
+cation transport	GO	artP
+cation transport	GO	cydD
+cation transport	GO	nhaB
+cation transport	GO	chaA
+cation transport	GO	tehA
+cation transport	GO	yddG
+cation transport	GO	yehX
+cation transport	GO	nuoM
+cation transport	GO	nuoL
+cation transport	GO	nuoB
+cation transport	GO	argO
+cation transport	GO	zntA
+cation transport	GO	lldP
+cation transport	GO	fieF
+cellular aldehyde metabolic process	GO	gloB
+cellular aldehyde metabolic process	GO	prpB
+cellular aldehyde metabolic process	GO	acnA
+cellular aldehyde metabolic process	GO	gloA
+cellular aldehyde metabolic process	GO	yeaE
+cellular aldehyde metabolic process	GO	hchA
+cellular aldehyde metabolic process	GO	gnd
+cellular aldehyde metabolic process	GO	eutR
+cellular aldehyde metabolic process	GO	ispG
+cellular aldehyde metabolic process	GO	dkgA
+cellular response to nutrient levels	GO	ahpC
+cellular response to nutrient levels	GO	appA
+cellular response to nutrient levels	GO	phoQ
+cellular response to nutrient levels	GO	relE
+cellular response to nutrient levels	GO	yodA
+cellular response to nutrient levels	GO	mazG
+cellular response to nutrient levels	GO	gntY
+cellular response to nutrient levels	GO	yhjX
+cellular response to nutrient levels	GO	yjiY
+cellular response to phosphate starvation	GO	iraP
+cellular response to phosphate starvation	GO	phoR
+cellular response to phosphate starvation	GO	phoU
+cellular response to phosphate starvation	GO	pstS
+cellular water homeostasis	GO	kefA
+cellular water homeostasis	GO	mscS
+cellular water homeostasis	GO	mscL
+cellular water homeostasis	GO	glpF
+cellulose metabolic process	GO	bcsA
+cellulose metabolic process	GO	yhjQ
+cellulose metabolic process	GO	yhjR
+cofactor metabolic process	GO	fruR
+cofactor metabolic process	GO	yadR
+cofactor metabolic process	GO	entF
+cofactor metabolic process	GO	entC
+cofactor metabolic process	GO	entE
+cofactor metabolic process	GO	entB
+cofactor metabolic process	GO	ybdB
+cofactor metabolic process	GO	bioB
+cofactor metabolic process	GO	bioF
+cofactor metabolic process	GO	pncB
+cofactor metabolic process	GO	pntA
+cofactor metabolic process	GO	pdxY
+cofactor metabolic process	GO	pdxH
+cofactor metabolic process	GO	gapA
+cofactor metabolic process	GO	thiD
+cofactor metabolic process	GO	ubiG
+cofactor metabolic process	GO	menE
+cofactor metabolic process	GO	menB
+cofactor metabolic process	GO	fdx
+cofactor metabolic process	GO	visC
+cofactor metabolic process	GO	ubiH
+cofactor metabolic process	GO	metK
+cofactor metabolic process	GO	cysG
+cofactor metabolic process	GO	yhhP
+cofactor metabolic process	GO	mioC
+cofactor metabolic process	GO	hemG
+cofactor metabolic process	GO	coaA
+D-methionine transport	GO	metQ
+D-methionine transport	GO	metI
+D-methionine transport	GO	metN
+DNA recombination	GO	yafM
+DNA recombination	GO	sbcC
+DNA recombination	GO	recD
+DNA recombination	GO	recC
+DNA recombination	GO	mutH
+DNA recombination	GO	argR
+DNA recombination	GO	mutL
+DNA recombination	GO	pepA
+DNA recombination	GO	fimB
+electron transport coupled proton transport	GO	cyoD
+electron transport coupled proton transport	GO	cyoC
+electron transport coupled proton transport	GO	cyoB
+electron transport coupled proton transport	GO	cyoA
+electron transport coupled proton transport	GO	nuoM
+electron transport coupled proton transport	GO	nuoL
+electron transport coupled proton transport	GO	nuoB
+enterobactin biosynthetic process	GO	entF
+enterobactin biosynthetic process	GO	entC
+enterobactin biosynthetic process	GO	entE
+enterobactin biosynthetic process	GO	entB
+enterobactin biosynthetic process	GO	ybdB
+gluconate transport	GO	gntT
+gluconate transport	GO	gntU
+gluconate transport	GO	kdgT
+gluconate transport	GO	gntP
+glutamine metabolic process	GO	carA
+glutamine metabolic process	GO	purF
+glutamine metabolic process	GO	purL
+glutamine metabolic process	GO	gltB
+glycine catabolic process	GO	glyA
+glycine catabolic process	GO	gcvH
+glycine catabolic process	GO	gcvT
+glyoxylate cycle	GO	acnB
+glyoxylate cycle	GO	prpB
+glyoxylate cycle	GO	acnA
+glyoxylate cycle	GO	glcB
+glyoxylate cycle	GO	aceB
+iron chelate transport	GO	fepA
+iron chelate transport	GO	fepD
+iron chelate transport	GO	fepB
+iron chelate transport	GO	fiu
+iron chelate transport	GO	tonB
+iron-sulfur cluster assembly	GO	sufS
+iron-sulfur cluster assembly	GO	sufD
+iron-sulfur cluster assembly	GO	sufB
+iron-sulfur cluster assembly	GO	sufA
+iron-sulfur cluster assembly	GO	iscA
+iron-sulfur cluster assembly	GO	iscU
+iron-sulfur cluster assembly	GO	iscS
+lipid localization	GO	acrA
+lipid localization	GO	putP
+lipid localization	GO	lolB
+lipid localization	GO	yrbC
+lipid localization	GO	yrbE
+lipid localization	GO	yrbF
+lipid localization	GO	lptB
+lipid localization	GO	yhjD
+lipid transport	GO	acrA
+lipid transport	GO	putP
+lipid transport	GO	yrbC
+lipid transport	GO	yrbE
+lipid transport	GO	yrbF
+lipid transport	GO	lptB
+lipid transport	GO	yhjD
+lipopolysaccharide core region biosynthetic process	GO	lpxK
+lipopolysaccharide core region biosynthetic process	GO	rfaC
+lipopolysaccharide core region biosynthetic process	GO	rfaL
+lipopolysaccharide core region biosynthetic process	GO	rfaI
+lipopolysaccharide core region biosynthetic process	GO	rfaB
+lipopolysaccharide core region biosynthetic process	GO	rfaS
+lipopolysaccharide core region biosynthetic process	GO	waaU
+lipopolysaccharide core region biosynthetic process	GO	rfaZ
+lipopolysaccharide core region biosynthetic process	GO	rfaY
+lipopolysaccharide core region biosynthetic process	GO	rfaP
+lipopolysaccharide core region biosynthetic process	GO	rfaG
+lipopolysaccharide core region biosynthetic process	GO	rfaQ
+methylglyoxal catabolic process	GO	gloB
+methylglyoxal catabolic process	GO	gloA
+methylglyoxal catabolic process	GO	yeaE
+methylglyoxal catabolic process	GO	hchA
+methylglyoxal catabolic process	GO	eutR
+methylglyoxal catabolic process	GO	dkgA
+organelle organization	GO	ybjN
+organelle organization	GO	topA
+organelle organization	GO	ydeH
+organelle organization	GO	rplT
+organelle organization	GO	infC
+organelle organization	GO	rimM
+organelle organization	GO	rpsP
+organelle organization	GO	parC
+organelle organization	GO	fis
+organelle organization	GO	rplE
+organelle organization	GO	rpsS
+organelle organization	GO	recG
+organelle organization	GO	recQ
+peptide biosynthetic process	GO	secM
+peptide biosynthetic process	GO	ybaK
+peptide biosynthetic process	GO	entF
+peptide biosynthetic process	GO	entC
+peptide biosynthetic process	GO	entE
+peptide biosynthetic process	GO	entB
+peptide biosynthetic process	GO	ybdB
+peptide biosynthetic process	GO	lit
+peptide biosynthetic process	GO	rplT
+peptide biosynthetic process	GO	yeaK
+peptide biosynthetic process	GO	rplY
+peptide biosynthetic process	GO	rpsP
+peptide biosynthetic process	GO	yfjG
+peptide biosynthetic process	GO	rpsD
+peptide biosynthetic process	GO	rpsM
+peptide biosynthetic process	GO	rpsN
+peptide biosynthetic process	GO	rpsQ
+peptide biosynthetic process	GO	rplD
+peptide biosynthetic process	GO	typA
+peptide biosynthetic process	GO	rplK
+peptide biosynthetic process	GO	rplA
+peptide biosynthetic process	GO	rplI
+peptidoglycan metabolic process	GO	ddlB
+peptidoglycan metabolic process	GO	mrdA
+peptidoglycan metabolic process	GO	ldcA
+peptidoglycan metabolic process	GO	ydhO
+peptidoglycan metabolic process	GO	dacD
+peptidoglycan metabolic process	GO	spr
+peptidoglycan metabolic process	GO	mepA
+peptidoglycan metabolic process	GO	pbpC
+peptidoglycan metabolic process	GO	mltB
+peptidoglycan metabolic process	GO	dacB
+peptidoglycan metabolic process	GO	mtgA
+peptidoglycan metabolic process	GO	mrcA
+peptidoglycan metabolic process	GO	slt
+pH elevation	GO	gadB
+pH elevation	GO	gadA
+pH elevation	GO	adiC
+pH elevation	GO	adiA
+polysaccharide transport	GO	malG
+polysaccharide transport	GO	malE
+polysaccharide transport	GO	malK
+polysaccharide transport	GO	lamB
+posttranscriptional regulation of gene expression	GO	secM
+posttranscriptional regulation of gene expression	GO	ybaK
+posttranscriptional regulation of gene expression	GO	lit
+posttranscriptional regulation of gene expression	GO	rplT
+posttranscriptional regulation of gene expression	GO	yeaK
+posttranscriptional regulation of gene expression	GO	rplY
+posttranscriptional regulation of gene expression	GO	yfjG
+posttranscriptional regulation of gene expression	GO	rpsD
+posttranscriptional regulation of gene expression	GO	rpsH
+posttranscriptional regulation of gene expression	GO	rplD
+posttranscriptional regulation of gene expression	GO	rplA
+propionate metabolic process	GO	acnB
+propionate metabolic process	GO	prpB
+propionate metabolic process	GO	prpC
+propionate metabolic process	GO	prpD
+propionate metabolic process	GO	ackA
+protein metabolic process	GO	lspA
+protein metabolic process	GO	fkpB
+protein metabolic process	GO	yafQ
+protein metabolic process	GO	clpP
+protein metabolic process	GO	clpX
+protein metabolic process	GO	lon
+protein metabolic process	GO	adk
+protein metabolic process	GO	lipB
+protein metabolic process	GO	lnt
+protein metabolic process	GO	ybeY
+protein metabolic process	GO	glnS
+protein metabolic process	GO	moaA
+protein metabolic process	GO	moaD
+protein metabolic process	GO	ybiS
+protein metabolic process	GO	pflA
+protein metabolic process	GO	rmf
+protein metabolic process	GO	hyaD
+protein metabolic process	GO	flgM
+protein metabolic process	GO	phoQ
+protein metabolic process	GO	yciH
+protein metabolic process	GO	yncA
+protein metabolic process	GO	relE
+protein metabolic process	GO	rstB
+protein metabolic process	GO	yeaG
+protein metabolic process	GO	pphA
+protein metabolic process	GO	yoeB
+protein metabolic process	GO	yehU
+protein metabolic process	GO	sixA
+protein metabolic process	GO	hscA
+protein metabolic process	GO	hscB
+protein metabolic process	GO	hypF
+protein metabolic process	GO	hycI
+protein metabolic process	GO	hypA
+protein metabolic process	GO	hypB
+protein metabolic process	GO	hypD
+protein metabolic process	GO	hybE
+protein metabolic process	GO	yqjB
+protein metabolic process	GO	ftsH
+protein metabolic process	GO	yhdL
+protein metabolic process	GO	rpsG
+protein metabolic process	GO	rpsL
+protein metabolic process	GO	gntY
+protein metabolic process	GO	acpT
+protein metabolic process	GO	yiaC
+protein metabolic process	GO	metE
+protein metabolic process	GO	glnL
+protein metabolic process	GO	hslV
+protein metabolic process	GO	hfq
+protein metabolic process	GO	prfC
+purine nucleoside monophosphate biosynthetic process	GO	purK
+purine nucleoside monophosphate biosynthetic process	GO	purC
+purine nucleoside monophosphate biosynthetic process	GO	purL
+purine nucleoside monophosphate biosynthetic process	GO	atpC
+purine nucleoside monophosphate biosynthetic process	GO	atpB
+purine nucleoside monophosphate biosynthetic process	GO	purA
+purine nucleotide biosynthetic process	GO	purK
+purine nucleotide biosynthetic process	GO	purF
+purine nucleotide biosynthetic process	GO	purC
+purine nucleotide biosynthetic process	GO	purL
+purine nucleotide biosynthetic process	GO	atpC
+purine nucleotide biosynthetic process	GO	atpB
+purine nucleotide biosynthetic process	GO	purD
+purine nucleotide biosynthetic process	GO	purA
+regulation of cell growth	GO	sohA
+regulation of cell growth	GO	phoU
+regulation of cell growth	GO	chpS
+regulation of cell growth	GO	chpB
+regulation of cell projection organization	GO	ybjN
+regulation of cell projection organization	GO	sxy
+regulation of cell projection organization	GO	ydeH
+response to heat	GO	dnaK
+response to heat	GO	dnaJ
+response to heat	GO	clpP
+response to heat	GO	lon
+response to heat	GO	htpG
+response to heat	GO	ybeY
+response to heat	GO	moaA
+response to heat	GO	clpS
+response to heat	GO	ldhA
+response to heat	GO	clpB
+response to heat	GO	grpE
+response to heat	GO	rpoD
+response to heat	GO	hslR
+response to heat	GO	hslO
+response to heat	GO	rpoH
+response to heat	GO	ibpB
+response to heat	GO	ibpA
+response to heat	GO	hslU
+response to heat	GO	hslV
+response to heat	GO	groS
+response to heat	GO	groL
+response to heat	GO	miaA
+response to heat	GO	hflX
+response to heat	GO	hflK
+response to heat	GO	hflC
+response to nickel cation	GO	rcnA
+response to nickel cation	GO	yohN
+response to nickel cation	GO	yqjH
+response to nutrient levels	GO	ahpC
+response to nutrient levels	GO	dps
+response to nutrient levels	GO	appA
+response to nutrient levels	GO	phoQ
+response to nutrient levels	GO	relE
+response to nutrient levels	GO	yodA
+response to nutrient levels	GO	mazG
+response to nutrient levels	GO	relA
+response to nutrient levels	GO	gntY
+response to nutrient levels	GO	yhjX
+response to nutrient levels	GO	yjiY
+secondary metabolic process	GO	entF
+secondary metabolic process	GO	entC
+secondary metabolic process	GO	entE
+secondary metabolic process	GO	entB
+secondary metabolic process	GO	ybdB
+secondary metabolic process	GO	visC
+secondary metabolic process	GO	ubiH
+secondary metabolic process	GO	yihU
+secondary metabolite biosynthetic process	GO	entF
+secondary metabolite biosynthetic process	GO	entC
+secondary metabolite biosynthetic process	GO	entE
+secondary metabolite biosynthetic process	GO	entB
+secondary metabolite biosynthetic process	GO	ybdB
+secondary metabolite biosynthetic process	GO	visC
+secondary metabolite biosynthetic process	GO	ubiH
+succinate metabolic process	GO	ldhA
+succinate metabolic process	GO	astE
+succinate metabolic process	GO	astB
+succinate metabolic process	GO	astD
+succinate metabolic process	GO	astA
+succinate metabolic process	GO	astC
+tricarboxylic acid metabolic process	GO	sdhA
+tricarboxylic acid metabolic process	GO	sucA
+tricarboxylic acid metabolic process	GO	sucC
+tricarboxylic acid metabolic process	GO	fumC
+tricarboxylic acid metabolic process	GO	argG
+tricarboxylic acid metabolic process	GO	mdh
+tRNA wobble base modification	GO	tilS
+tRNA wobble base modification	GO	queA
+tRNA wobble base modification	GO	yccK
+tRNA wobble base modification	GO	trmU
+tRNA wobble base modification	GO	mnmC
+tRNA wobble base modification	GO	tadA
+tRNA wobble base modification	GO	yhhP

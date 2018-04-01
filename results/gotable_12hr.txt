@@ -1,0 +1,129 @@
+	Cluster	strain	effect	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+1	3A only.up	3A only	up	GO:0009081	branched-chain amino acid metabolic process	9/224	21/2531	3.24752229577047e-05	0.0220935911218174	0.0213473032834528	leuD/leuC/leuB/leuA/panE/ilvB/ilvE/ilvD/ilvA	9
+2	3A only.up	3A only	up	GO:0009082	branched-chain amino acid biosynthetic process	8/224	18/2531	6.66832197687639e-05	0.0220935911218174	0.0213473032834528	leuD/leuC/leuB/leuA/ilvB/ilvE/ilvD/ilvA	8
+3	3A only.up	3A only	up	GO:0006097	glyoxylate cycle	5/224	7/2531	9.42157403915454e-05	0.0220935911218174	0.0213473032834528	acnB/prpB/acnA/glcB/aceB	5
+4	3A only.up	3A only	up	GO:0019541	propionate metabolic process	5/224	7/2531	9.42157403915454e-05	0.0220935911218174	0.0213473032834528	acnB/prpB/prpC/prpD/ackA	5
+5	3A only.up	3A only	up	GO:0044283	small molecule biosynthetic process	35/224	214/2531	0.000152699694642412	0.0225680487755259	0.0218057344806731	thrB/pdxA/leuD/leuC/leuB/leuA/ispU/fabZ/proB/proA/dxs/yajL/panE/ybjI/mgsA/purU/fabI/folM/ribC/ppsA/hchA/ackA/aroC/alaC/cysK/gabT/folP/ilvB/ilvM/ilvE/ilvD/ilvA/argE/birA/fbp	35
+6	3A only.up	3A only	up	GO:0010876	lipid localization	8/224	20/2531	0.000164074471669233	0.0225680487755259	0.0218057344806731	acrA/putP/lolB/mlaC/mlaE/mlaF/lptB/yhjD	8
+7	3A only.up	3A only	up	GO:0006551	leucine metabolic process	5/224	8/2531	0.000233159419822586	0.0225680487755259	0.0218057344806731	leuD/leuC/leuB/leuA/ilvE	5
+8	3A only.up	3A only	up	GO:0009098	leucine biosynthetic process	5/224	8/2531	0.000233159419822586	0.0225680487755259	0.0218057344806731	leuD/leuC/leuB/leuA/ilvE	5
+9	3A only.up	3A only	up	GO:0046459	short-chain fatty acid metabolic process	5/224	8/2531	0.000233159419822586	0.0225680487755259	0.0218057344806731	acnB/prpB/prpC/prpD/ackA	5
+10	3A only.up	3A only	up	GO:0016053	organic acid biosynthetic process	27/224	153/2531	0.000264657288412351	0.0225680487755259	0.0218057344806731	thrB/leuD/leuC/leuB/leuA/fabZ/proB/proA/yajL/panE/purU/fabI/folM/hchA/ackA/aroC/alaC/cysK/gabT/folP/ilvB/ilvM/ilvE/ilvD/ilvA/argE/birA	27
+11	3A only.up	3A only	up	GO:0046394	carboxylic acid biosynthetic process	27/224	153/2531	0.000264657288412351	0.0225680487755259	0.0218057344806731	thrB/leuD/leuC/leuB/leuA/fabZ/proB/proA/yajL/panE/purU/fabI/folM/hchA/ackA/aroC/alaC/cysK/gabT/folP/ilvB/ilvM/ilvE/ilvD/ilvA/argE/birA	27
+12	3A only.up	3A only	up	GO:0006081	cellular aldehyde metabolic process	12/224	47/2531	0.00054701463162622	0.0427583103721162	0.0413139998096645	pdxA/acnB/prpB/dxs/yajL/mgsA/acnA/zwf/hchA/yeiG/glcB/aceB	12
+13	3A only.up	3A only	up	GO:0006560	proline metabolic process	3/224	3/2531	0.000684769423943202	0.0494087476660557	0.0477397954668095	proB/proA/putA	3
+14	3A only.up	3A only	up	GO:0006869	lipid transport	7/224	19/2531	0.00077319099427688	0.0518037966165509	0.0500539433137138	acrA/putP/mlaC/mlaE/mlaF/lptB/yhjD	7
+15	3A only.up	3A only	up	GO:0044711	single-organism biosynthetic process	53/224	407/2531	0.00130361176173343	0.0815191888337302	0.0787655948668407	thrB/pdxA/leuD/leuC/leuB/leuA/coaE/hemL/ispU/fabZ/proB/proA/hemB/dxs/yajL/panE/ybjI/mgsA/opgH/purU/tdk/clsA/fabI/folM/ribC/ppsA/otsA/otsB/hchA/rfbC/wcaJ/arnA/yfbR/ackA/aroC/alaC/cysK/ppk/guaA/gabT/idi/folP/glgA/glgC/ilvB/ilvM/ilvE/ilvD/ilvA/argE/birA/dgkA/fbp	53
+16	3A only.up	3A only	up	GO:0046487	glyoxylate metabolic process	5/224	11/2531	0.0015388398789425	0.090214487903004	0.087167179984835	acnB/prpB/acnA/glcB/aceB	5
+17	3A only.down	3A only	down	GO:0043043	peptide biosynthetic process	22/242	92/2531	2.95210221540644e-05	0.0274250295811259	0.0261649480565497	secM/ybaK/entF/entC/entE/entB/entH/lit/rplT/yeaK/rplY/rpsP/ratA/rpsD/rpsM/rpsN/rpsQ/rplD/typA/rplK/rplA/rplI	22
+18	3A only.down	3A only	down	GO:0044550	secondary metabolite biosynthetic process	7/242	14/2531	0.000128037615549667	0.0348656005233426	0.0332636515105711	entF/entC/entE/entB/entH/ubiI/ubiH	7
+19	3A only.down	3A only	down	GO:0043604	amide biosynthetic process	25/242	123/2531	0.000153927060675098	0.0348656005233426	0.0332636515105711	secM/ybaK/entF/entC/entE/entB/entH/bioB/bioF/lit/rplT/yeaK/rplY/rpsP/ratA/rpsD/rpsM/rpsN/rpsQ/rplD/mioC/typA/rplK/rplA/rplI	25
+20	3A only.down	3A only	down	GO:0002097	tRNA wobble base modification	7/242	15/2531	0.000220667587806653	0.0348656005233426	0.0332636515105711	tilS/queA/tusE/mnmA/mnmC/tadA/tusA	7
+21	3A only.down	3A only	down	GO:0006518	peptide metabolic process	23/242	113/2531	0.000279863059307388	0.0348656005233426	0.0332636515105711	secM/ybaK/entF/entC/entE/entB/entH/lit/rplT/yeaK/rplY/lepB/rpsP/ratA/rpsD/rpsM/rpsN/rpsQ/rplD/typA/rplK/rplA/rplI	23
+22	3A only.down	3A only	down	GO:0019748	secondary metabolic process	8/242	20/2531	0.000283291497337017	0.0348656005233426	0.0332636515105711	entF/entC/entE/entB/entH/ubiI/ubiH/yihU	8
+23	3A only.down	3A only	down	GO:0009239	enterobactin biosynthetic process	5/242	8/2531	0.000337772233272426	0.0348656005233426	0.0332636515105711	entF/entC/entE/entB/entH	5
+24	3A only.down	3A only	down	GO:0019290	siderophore biosynthetic process	5/242	8/2531	0.000337772233272426	0.0348656005233426	0.0332636515105711	entF/entC/entE/entB/entH	5
+25	3A only.down	3A only	down	GO:0019540	siderophore biosynthetic process from catechol	5/242	8/2531	0.000337772233272426	0.0348656005233426	0.0332636515105711	entF/entC/entE/entB/entH	5
+26	3A only.down	3A only	down	GO:0009237	siderophore metabolic process	5/242	9/2531	0.000700946956955605	0.0500907479239813	0.0477892581179449	entF/entC/entE/entB/entH	5
+27	3A only.down	3A only	down	GO:0009238	enterobactin metabolic process	5/242	9/2531	0.000700946956955605	0.0500907479239813	0.0477892581179449	entF/entC/entE/entB/entH	5
+28	3A only.down	3A only	down	GO:0009713	catechol-containing compound biosynthetic process	5/242	9/2531	0.000700946956955605	0.0500907479239813	0.0477892581179449	entF/entC/entE/entB/entH	5
+29	3A only.down	3A only	down	GO:0046189	phenol-containing compound biosynthetic process	5/242	9/2531	0.000700946956955605	0.0500907479239813	0.0477892581179449	entF/entC/entE/entB/entH	5
+30	3A only.down	3A only	down	GO:0006996	organelle organization	13/242	54/2531	0.00125215264404251	0.0667450332102044	0.0636783388623785	ybjN/topA/dgcZ/rplT/infC/rimM/rpsP/parC/fis/rplE/rpsS/recG/recQ	13
+31	3A only.down	3A only	down	GO:0009712	catechol-containing compound metabolic process	5/242	10/2531	0.00129322992226446	0.0667450332102044	0.0636783388623785	entF/entC/entE/entB/entH	5
+32	3A only.down	3A only	down	GO:0015688	iron chelate transport	5/242	10/2531	0.00129322992226446	0.0667450332102044	0.0636783388623785	fepA/fepD/fepB/fiu/tonB	5
+33	3A only.down	3A only	down	GO:0015891	siderophore transport	5/242	10/2531	0.00129322992226446	0.0667450332102044	0.0636783388623785	fepA/fepD/fepB/fiu/tonB	5
+34	3A only.down	3A only	down	GO:0019184	nonribosomal peptide biosynthetic process	5/242	10/2531	0.00129322992226446	0.0667450332102044	0.0636783388623785	entF/entC/entE/entB/entH	5
+35	3A only.down	3A only	down	GO:0006412	translation	17/242	82/2531	0.00143856124807685	0.0703380736559682	0.0671062920155518	secM/ybaK/lit/rplT/yeaK/rplY/rpsP/ratA/rpsD/rpsM/rpsN/rpsQ/rplD/typA/rplK/rplA/rplI	17
+36	3A only.down	3A only	down	GO:0010608	posttranscriptional regulation of gene expression	11/242	43/2531	0.00174794382920763	0.0811919908666943	0.0774615107469906	secM/ybaK/lit/rplT/yeaK/rplY/ratA/rpsD/rpsH/rplD/rplA	11
+37	3A only.down	3A only	down	GO:0008033	tRNA processing	12/242	50/2531	0.00197814736333033	0.0845980856354084	0.0807111077049616	tilS/queA/tusE/mnmA/tsaB/mnmC/tadA/trmD/cca/dusB/tusA/rnpA	12
+38	3A only.down	3A only	down	GO:0018958	phenol-containing compound metabolic process	5/242	11/2531	0.0021875670191608	0.0845980856354084	0.0807111077049616	entF/entC/entE/entB/entH	5
+39	3A only.down	3A only	down	GO:0015725	gluconate transport	4/242	7/2531	0.00226275086321499	0.0845980856354084	0.0807111077049616	gntT/gntU/kdgT/gntP	4
+40	3A only.down	3A only	down	GO:0035429	gluconate transmembrane transport	4/242	7/2531	0.00226275086321499	0.0845980856354084	0.0807111077049616	gntT/gntU/kdgT/gntP	4
+41	3A only.down	3A only	down	GO:0051186	cofactor metabolic process	27/242	162/2531	0.00227659003324565	0.0845980856354084	0.0807111077049616	cra/erpA/entF/entC/entE/entB/entH/bioB/bioF/pncB/pntA/pdxY/pdxH/gapA/thiD/ubiG/menE/menB/fdx/ubiI/ubiH/metK/cysG/tusA/mioC/hemG/coaA	27
+42	3A only.down	3A only	down	GO:0043603	cellular amide metabolic process	26/242	155/2531	0.00250141884570822	0.0871061771493434	0.0831039614296608	secM/ybaK/entF/entC/entE/entB/entH/bioB/bioF/lit/rplT/yeaK/rplY/lepB/rpsP/ratA/rpsD/rpsM/rpsN/rpsQ/rplD/mioC/typA/rplK/rplA/rplI	26
+43	3A only.down	3A only	down	GO:0051188	cofactor biosynthetic process	21/242	116/2531	0.00253161117656865	0.0871061771493434	0.0831039614296608	erpA/entF/entC/entE/entB/entH/pncB/pdxY/pdxH/thiD/ubiG/menE/menB/fdx/ubiI/ubiH/metK/cysG/tusA/hemG/coaA	21
+44	3A only.down	3A only	down	GO:0006417	regulation of translation	10/242	39/2531	0.00276848970974546	0.0886871358742597	0.084612280784235	secM/ybaK/lit/rplT/yeaK/rplY/ratA/rpsD/rplD/rplA	10
+45	3A only.down	3A only	down	GO:0034248	regulation of cellular amide metabolic process	10/242	39/2531	0.00276848970974546	0.0886871358742597	0.084612280784235	secM/ybaK/lit/rplT/yeaK/rplY/ratA/rpsD/rplD/rplA	10
+46	3A only.down	3A only	down	GO:0002143	tRNA wobble position uridine thiolation	3/242	4/2531	0.00321219476080641	0.0904281494784591	0.0862733010717383	tusE/mnmA/tusA	3
+47	3A only.down	3A only	down	GO:0006546	glycine catabolic process	3/242	4/2531	0.00321219476080641	0.0904281494784591	0.0862733010717383	glyA/gcvH/gcvT	3
+48	3A only.down	3A only	down	GO:0031344	regulation of cell projection organization	3/242	4/2531	0.00321219476080641	0.0904281494784591	0.0862733010717383	ybjN/sxy/dgcZ	3
+49	3A only.down	3A only	down	GO:0060491	regulation of cell projection assembly	3/242	4/2531	0.00321219476080641	0.0904281494784591	0.0862733010717383	ybjN/sxy/dgcZ	3
+50	3A only.down	3A only	down	GO:0071826	ribonucleoprotein complex subunit organization	6/242	17/2531	0.00359349227272599	0.0981868918047779	0.0936755570784919	rplT/infC/rimM/rpsP/rplE/rpsS	6
+51	3Amk only.up	3Amk only	up	GO:1901137	carbohydrate derivative biosynthetic process	27/230	137/2531	5.8520673671065e-05	0.0521419202409189	0.0492189665928221	ddlB/purK/mrdA/lpxK/prs/dacD/mepA/purC/upp/pbpC/purL/mltB/queD/mtgA/mrcA/waaC/waaL/waaO/waaB/waaS/glmS/glmU/atpC/atpB/tpiA/purA/opgB	27
+52	3Amk only.up	3Amk only	up	GO:0000270	peptidoglycan metabolic process	13/230	51/2531	0.000424952512892379	0.0734128127939529	0.0692974628417134	ddlB/mrdA/ldcA/mepH/dacD/mepS/mepA/pbpC/mltB/dacB/mtgA/mrcA/slt	13
+53	3Amk only.up	3Amk only	up	GO:0006164	purine nucleotide biosynthetic process	8/230	22/2531	0.000427659168582769	0.0734128127939529	0.0692974628417134	purK/purF/purC/purL/atpC/atpB/purD/purA	8
+54	3Amk only.up	3Amk only	up	GO:0030203	glycosaminoglycan metabolic process	13/230	52/2531	0.000521593061066795	0.0734128127939529	0.0692974628417134	ddlB/mrdA/ldcA/mepH/dacD/mepS/mepA/pbpC/mltB/dacB/mtgA/mrcA/slt	13
+55	3Amk only.up	3Amk only	up	GO:0009127	purine nucleoside monophosphate biosynthetic process	6/230	13/2531	0.000524559885121844	0.0734128127939529	0.0692974628417134	purK/purC/purL/atpC/atpB/purA	6
+56	3Amk only.up	3Amk only	up	GO:0009168	purine ribonucleoside monophosphate biosynthetic process	6/230	13/2531	0.000524559885121844	0.0734128127939529	0.0692974628417134	purK/purC/purL/atpC/atpB/purA	6
+57	3Amk only.up	3Amk only	up	GO:0006022	aminoglycan metabolic process	13/230	53/2531	0.000636228476944851	0.0734128127939529	0.0692974628417134	ddlB/mrdA/ldcA/mepH/dacD/mepS/mepA/pbpC/mltB/dacB/mtgA/mrcA/slt	13
+58	3Amk only.up	3Amk only	up	GO:0010045	response to nickel cation	3/230	3/2531	0.000741543563575281	0.0734128127939529	0.0692974628417134	rcnA/rcnB/yqjH	3
+59	3Amk only.up	3Amk only	up	GO:0048473	D-methionine transport	3/230	3/2531	0.000741543563575281	0.0734128127939529	0.0692974628417134	metQ/metI/metN	3
+60	3Amk only.up	3Amk only	up	GO:0006541	glutamine metabolic process	4/230	6/2531	0.000861177972475183	0.0767309573475388	0.0724296000008075	carA/purF/purL/gltB	4
+61	3Amk only.up	3Amk only	up	GO:0009244	lipopolysaccharide core region biosynthetic process	6/230	15/2531	0.00130850655344368	0.0971566115931934	0.0917102400176756	lpxK/waaC/waaL/waaO/waaB/waaS	6
+62	3Amk only.up	3Amk only	up	GO:0046401	lipopolysaccharide core region metabolic process	6/230	15/2531	0.00130850655344368	0.0971566115931934	0.0917102400176756	lpxK/waaC/waaL/waaO/waaB/waaS	6
+63	3Amk only.down	3Amk only	down	GO:0016226	iron-sulfur cluster assembly	7/184	16/2531	6.24849742632838e-05	0.0255526140330265	0.0251064547417558	sufS/sufD/sufB/sufA/iscA/iscU/iscS	7
+64	3Amk only.down	3Amk only	down	GO:0051596	methylglyoxal catabolic process	6/184	12/2531	8.70277109154424e-05	0.0255526140330265	0.0251064547417558	gloB/gloA/yeaE/hchA/eutR/dkgA	6
+65	3Amk only.down	3Amk only	down	GO:0031163	metallo-sulfur cluster assembly	7/184	17/2531	9.97500380248521e-05	0.0255526140330265	0.0251064547417558	sufS/sufD/sufB/sufA/iscA/iscU/iscS	7
+66	3Amk only.down	3Amk only	down	GO:0009438	methylglyoxal metabolic process	6/184	13/2531	0.000151918038246293	0.0255526140330265	0.0251064547417558	gloB/gloA/yeaE/hchA/eutR/dkgA	6
+67	3Amk only.down	3Amk only	down	GO:0042182	ketone catabolic process	6/184	13/2531	0.000151918038246293	0.0255526140330265	0.0251064547417558	gloB/gloA/yeaE/hchA/eutR/dkgA	6
+68	3Amk only.down	3Amk only	down	GO:0016036	cellular response to phosphate starvation	4/184	7/2531	0.000795569878673714	0.0937111430286121	0.0920749074128049	iraP/phoR/phoU/pstS	4
+69	3Amk only.down	3Amk only	down	GO:0046185	aldehyde catabolic process	6/184	18/2531	0.00120717759393669	0.0937111430286121	0.0920749074128049	gloB/gloA/yeaE/hchA/eutR/dkgA	6
+70	3Amk only.down	3Amk only	down	GO:0001558	regulation of cell growth	4/184	8/2531	0.00150107567347907	0.0937111430286121	0.0920749074128049	prlF/phoU/chpS/chpB	4
+71	3Amk only.down	3Amk only	down	GO:0016049	cell growth	4/184	8/2531	0.00150107567347907	0.0937111430286121	0.0920749074128049	prlF/phoU/chpS/chpB	4
+72	3Amk only.down	3Amk only	down	GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	4/184	8/2531	0.00150107567347907	0.0937111430286121	0.0920749074128049	gloB/gloA/hchA/eutR	4
+73	3Amk only.down	3Amk only	down	GO:0040007	growth	4/184	8/2531	0.00150107567347907	0.0937111430286121	0.0920749074128049	prlF/phoU/chpS/chpB	4
+74	3Amk only.down	3Amk only	down	GO:0040008	regulation of growth	4/184	8/2531	0.00150107567347907	0.0937111430286121	0.0920749074128049	prlF/phoU/chpS/chpB	4
+75	3Amk only.down	3Amk only	down	GO:0061727	methylglyoxal catabolic process to lactate	4/184	8/2531	0.00150107567347907	0.0937111430286121	0.0920749074128049	gloB/gloA/hchA/eutR	4
+76	3Amk only.down	3Amk only	down	GO:0006081	cellular aldehyde metabolic process	10/184	47/2531	0.00155999524661185	0.0937111430286121	0.0920749074128049	gloB/prpB/acnA/gloA/yeaE/hchA/gnd/eutR/ispG/dkgA	10
+77	Both.up	Both	up	GO:0009060	aerobic respiration	16/240	37/2531	5.50028886077284e-08	5.29677817292425e-05	5.0023679744292e-05	cyoD/cyoC/cyoB/cyoA/sdhA/sdhB/sucA/sucC/fumC/nuoM/nuoI/nuoH/nuoG/nuoB/mdh/lldD	16
+78	Both.up	Both	up	GO:0015988	energy coupled proton transmembrane transport, against electrochemical gradient	7/240	8/2531	4.67954526631972e-07	0.000150213403048863	0.000141864109126324	cyoD/cyoC/cyoB/cyoA/nuoM/nuoL/nuoB	7
+79	Both.up	Both	up	GO:0015990	electron transport coupled proton transport	7/240	8/2531	4.67954526631972e-07	0.000150213403048863	0.000141864109126324	cyoD/cyoC/cyoB/cyoA/nuoM/nuoL/nuoB	7
+80	Both.up	Both	up	GO:0015980	energy derivation by oxidation of organic compounds	23/240	102/2531	4.63760834149168e-05	0.00950856374110074	0.00898005036050832	cyoD/cyoC/cyoB/cyoA/sdhA/sdhB/sucA/sucC/torS/fumC/torZ/nuoM/nuoI/nuoH/nuoG/nuoE/nuoB/mdh/glgX/glgB/lldD/fdoH/frdD	23
+81	Both.up	Both	up	GO:0045333	cellular respiration	21/240	89/2531	4.93694898291835e-05	0.00950856374110074	0.00898005036050832	cyoD/cyoC/cyoB/cyoA/sdhA/sdhB/sucA/sucC/torS/fumC/torZ/nuoM/nuoI/nuoH/nuoG/nuoE/nuoB/mdh/lldD/fdoH/frdD	21
+82	Both.up	Both	up	GO:0006091	generation of precursor metabolites and energy	24/240	117/2531	0.000158400190068278	0.0254232305059586	0.0240101340735073	cyoD/cyoC/cyoB/cyoA/sdhA/sdhB/sucA/sucC/torS/icd/fumC/torZ/nuoM/nuoI/nuoH/nuoG/nuoE/nuoB/mdh/glgX/glgB/lldD/fdoH/frdD	24
+83	Both.up	Both	up	GO:0055114	oxidation-reduction process	27/240	152/2531	0.000737715537617194	0.0738003133837888	0.0696982792409614	cyoD/cyoC/cyoB/cyoA/sdhA/sdhB/sucA/sucC/gstB/torS/icd/fumC/torZ/yedY/nuoM/nuoI/nuoH/nuoG/nuoE/nuoB/cysH/mdh/glgX/glgB/lldD/fdoH/frdD	27
+84	Both.up	Both	up	GO:1902600	hydrogen ion transmembrane transport	7/240	18/2531	0.000806188410538365	0.0738003133837888	0.0696982792409614	cyoD/cyoC/cyoB/cyoA/nuoM/nuoL/nuoB	7
+85	Both.up	Both	up	GO:0030243	cellulose metabolic process	3/240	3/2531	0.000842994233875054	0.0738003133837888	0.0696982792409614	bcsA/bcsQ/yhjR	3
+86	Both.up	Both	up	GO:0030244	cellulose biosynthetic process	3/240	3/2531	0.000842994233875054	0.0738003133837888	0.0696982792409614	bcsA/bcsQ/yhjR	3
+87	Both.up	Both	up	GO:0090540	bacterial cellulose biosynthetic process	3/240	3/2531	0.000842994233875054	0.0738003133837888	0.0696982792409614	bcsA/bcsQ/yhjR	3
+88	Both.up	Both	up	GO:0009992	cellular water homeostasis	4/240	6/2531	0.00101518829336859	0.0752020251164582	0.0710220797951794	mscK/mscS/mscL/glpF	4
+89	Both.up	Both	up	GO:0030104	water homeostasis	4/240	6/2531	0.00101518829336859	0.0752020251164582	0.0710220797951794	mscK/mscS/mscL/glpF	4
+90	Both.up	Both	up	GO:0006812	cation transport	24/240	133/2531	0.00116707851200232	0.0802783290755878	0.0758162281481203	setA/cyoD/cyoC/cyoB/cyoA/rhtA/potF/potG/potH/artQ/artP/cydD/nhaB/chaA/tehA/yddG/yehX/nuoM/nuoL/nuoB/argO/zntA/lldP/fieF	24
+91	Both.up	Both	up	GO:0009244	lipopolysaccharide core region biosynthetic process	6/240	15/2531	0.00163945481390407	0.0844698058068946	0.0797747305210219	waaU/waaZ/waaY/waaP/waaG/waaQ	6
+92	Both.up	Both	up	GO:0046401	lipopolysaccharide core region metabolic process	6/240	15/2531	0.00163945481390407	0.0844698058068946	0.0797747305210219	waaU/waaZ/waaY/waaP/waaG/waaQ	6
+93	Both.up	Both	up	GO:0072350	tricarboxylic acid metabolic process	6/240	15/2531	0.00163945481390407	0.0844698058068946	0.0797747305210219	sdhA/sucA/sucC/fumC/argG/mdh	6
+94	Both.up	Both	up	GO:0044264	cellular polysaccharide metabolic process	14/240	63/2531	0.00174069096860788	0.0844698058068946	0.0797747305210219	malZ/glgX/glgB/bcsA/bcsQ/yhjR/waaU/waaZ/waaY/waaP/waaG/waaQ/wzzE/eptA	14
+95	Both.up	Both	up	GO:0005976	polysaccharide metabolic process	14/240	64/2531	0.00204303119110328	0.0844698058068946	0.0797747305210219	malZ/glgX/glgB/bcsA/bcsQ/yhjR/waaU/waaZ/waaY/waaP/waaG/waaQ/wzzE/eptA	14
+96	Both.up	Both	up	GO:0006310	DNA recombination	9/240	32/2531	0.00212592248049037	0.0844698058068946	0.0797747305210219	rayT/sbcC/recD/recC/mutH/argR/mutL/pepA/fimB	9
+97	Both.up	Both	up	GO:0006884	cell volume homeostasis	4/240	7/2531	0.00219288177068781	0.0844698058068946	0.0797747305210219	mscK/mscS/mscL/glpF	4
+98	Both.up	Both	up	GO:0008361	regulation of cell size	4/240	7/2531	0.00219288177068781	0.0844698058068946	0.0797747305210219	mscK/mscS/mscL/glpF	4
+99	Both.up	Both	up	GO:0019646	aerobic electron transport chain	4/240	7/2531	0.00219288177068781	0.0844698058068946	0.0797747305210219	cyoD/cyoC/cyoB/cyoA	4
+100	Both.up	Both	up	GO:0032535	regulation of cellular component size	4/240	7/2531	0.00219288177068781	0.0844698058068946	0.0797747305210219	mscK/mscS/mscL/glpF	4
+101	Both.up	Both	up	GO:0090066	regulation of anatomical structure size	4/240	7/2531	0.00219288177068781	0.0844698058068946	0.0797747305210219	mscK/mscS/mscL/glpF	4
+102	Both.up	Both	up	GO:0022900	electron transport chain	7/240	21/2531	0.00229655470761864	0.0850608532091058	0.0803329258049597	cyoD/cyoC/cyoB/cyoA/icd/nuoE/fdoH	7
+103	Both.up	Both	up	GO:0006811	ion transport	36/240	239/2531	0.00240731422210016	0.0858608739215722	0.0810884790602158	setA/cyoD/cyoC/cyoB/cyoA/rhtA/gsiC/gsiD/potF/potG/potH/artQ/artP/cydD/nhaB/chaA/tehA/yddG/ydgI/yehX/nuoM/nuoL/nuoB/fadL/proV/argO/mscS/tolC/mlaB/mscL/ugpE/zntA/lldP/fieF/glpF/gltP	36
+104	Both.up	Both	up	GO:0006818	hydrogen transport	10/240	39/2531	0.00260132917125546	0.0863820686868622	0.0815807043181385	setA/cyoD/cyoC/cyoB/cyoA/nhaB/nuoM/nuoL/nuoB/lldP	10
+105	Both.up	Both	up	GO:0015992	proton transport	10/240	39/2531	0.00260132917125546	0.0863820686868622	0.0815807043181385	setA/cyoD/cyoC/cyoB/cyoA/nhaB/nuoM/nuoL/nuoB/lldP	10
+106	Both.down	Both	down	GO:0009408	response to heat	25/249	55/2531	4.43983692779524e-12	4.05801095200485e-09	3.82293327045948e-09	dnaK/dnaJ/clpP/lon/htpG/ybeY/moaA/clpS/ldhA/clpB/grpE/rpoD/hslR/hslO/rpoH/ibpB/ibpA/hslU/hslV/groS/groL/miaA/hflX/hflK/hflC	25
+107	Both.down	Both	down	GO:0009266	response to temperature stimulus	27/249	76/2531	5.94666567621188e-10	2.71762621402883e-07	2.56019606481122e-07	dnaK/dnaJ/clpP/lon/htpG/ybeY/moaA/clpS/ldhA/pphA/hscA/clpB/grpE/rpoD/hslR/hslO/rpoH/ibpB/ibpA/hslU/hslV/groS/groL/miaA/hflX/hflK/hflC	27
+108	Both.down	Both	down	GO:0006527	arginine catabolic process	8/249	11/2531	1.00163542429523e-06	0.000305164925935279	0.000287486939324033	sad/astE/astB/astD/astA/astC/yqeA/adiA	8
+109	Both.down	Both	down	GO:0009065	glutamine family amino acid catabolic process	8/249	13/2531	6.54588899610364e-06	0.00135363105936019	0.00127521617707778	sad/astE/astB/astD/astA/astC/yqeA/adiA	8
+110	Both.down	Both	down	GO:0009628	response to abiotic stimulus	32/249	148/2531	8.02660435066887e-06	0.00135363105936019	0.00127521617707778	dnaK/dnaJ/clpP/lon/htpG/ybeY/moaA/clpS/appA/ldhA/dosP/pphA/yodD/hscA/clpB/grpE/rpoD/hslR/hslO/rpoH/treF/ibpB/ibpA/recF/hslU/hslV/groS/groL/miaA/hflX/hflK/hflC	32
+111	Both.down	Both	down	GO:0019545	arginine catabolic process to succinate	5/249	5/2531	8.88598069601874e-06	0.00135363105936019	0.00127521617707778	astE/astB/astD/astA/astC	5
+112	Both.down	Both	down	GO:0019538	protein metabolic process	49/249	300/2531	0.000114444009507451	0.0146064876241513	0.0137603442088631	lspA/fkpB/yafQ/clpP/clpX/lon/adk/lipB/lnt/ybeY/glnS/moaA/moaD/ldtB/pflA/rmf/hyaD/flgM/phoQ/yciH/mnaT/relE/rstB/yeaG/pphA/yoeB/yehU/sixA/hscA/hscB/hypF/hycI/hypA/hypB/hypD/hybE/mzrA/ftsH/arfA/rpsG/rpsL/nfuA/acpT/yiaC/metE/glnL/hslV/hfq/prfC	49
+113	Both.down	Both	down	GO:0006105	succinate metabolic process	6/249	10/2531	0.000127846718810953	0.0146064876241513	0.0137603442088631	ldhA/astE/astB/astD/astA/astC	6
+114	Both.down	Both	down	GO:0051604	protein maturation	11/249	34/2531	0.000245457735378153	0.0249275966817368	0.0234835587765297	lspA/hyaD/hscA/hscB/hypF/hycI/hypA/hypB/hypD/hybE/nfuA	11
+115	Both.down	Both	down	GO:0006950	response to stress	65/249	447/2531	0.000285657269777667	0.0257576653009682	0.0242655421123943	dnaK/dnaJ/polB/clpP/lon/ybaM/htpG/copA/ybbN/ahpC/ybeY/moaA/ybiX/dps/clpS/pflA/rmf/sulA/appA/rutE/flgI/mfd/phoQ/yciF/ldhA/adhP/relE/yebG/yodD/zinT/alaA/mntH/hscA/clpB/grpE/mazG/relA/ygiW/rpoD/hslR/hslO/nfuA/rpoH/gadW/treF/yibA/ibpB/ibpA/recF/pstA/asnA/hslU/hslV/malE/lamB/uvrA/soxR/groS/groL/miaA/hflX/hflK/hflC/yjiY/deoB	65
+116	Both.down	Both	down	GO:0015774	polysaccharide transport	4/249	5/2531	0.000422718795967749	0.0257576653009682	0.0242655421123943	malG/malE/malK/lamB	4
+117	Both.down	Both	down	GO:0033037	polysaccharide localization	4/249	5/2531	0.000422718795967749	0.0257576653009682	0.0242655421123943	malG/malE/malK/lamB	4
+118	Both.down	Both	down	GO:0042956	maltodextrin transport	4/249	5/2531	0.000422718795967749	0.0257576653009682	0.0242655421123943	malG/malE/malK/lamB	4
+119	Both.down	Both	down	GO:0045852	pH elevation	4/249	5/2531	0.000422718795967749	0.0257576653009682	0.0242655421123943	gadB/gadA/adiC/adiA	4
+120	Both.down	Both	down	GO:0051454	intracellular pH elevation	4/249	5/2531	0.000422718795967749	0.0257576653009682	0.0242655421123943	gadB/gadA/adiC/adiA	4
+121	Both.down	Both	down	GO:0044267	cellular protein metabolic process	39/249	238/2531	0.000600127032020832	0.0342822567041901	0.0322963100127001	lspA/fkpB/yafQ/clpP/lon/adk/lipB/ybeY/glnS/moaA/moaD/pflA/rmf/hyaD/flgM/phoQ/yciH/mnaT/relE/rstB/yeaG/pphA/yoeB/yehU/sixA/hypF/hycI/hypD/mzrA/arfA/rpsG/rpsL/acpT/yiaC/metE/glnL/hslV/hfq/prfC	39
+122	Both.down	Both	down	GO:0031667	response to nutrient levels	11/249	38/2531	0.000721513411798816	0.0374113661444846	0.0352441523738206	ahpC/dps/appA/phoQ/relE/zinT/mazG/relA/nfuA/yhjX/yjiY	11
+123	Both.down	Both	down	GO:0006525	arginine metabolic process	8/249	22/2531	0.000736766510504073	0.0374113661444846	0.0352441523738206	sad/astE/astB/astD/astA/astC/yqeA/adiA	8
+124	Both.down	Both	down	GO:0051453	regulation of intracellular pH	4/249	6/2531	0.00117010806883775	0.056288356574616	0.0530276122055003	gadB/gadA/adiC/adiA	4
+125	Both.down	Both	down	GO:0009605	response to external stimulus	17/249	79/2531	0.00127995710213818	0.0584940395677149	0.0551055215552123	polB/ahpC/dps/appA/phoQ/trg/relE/yebG/tap/cheW/zinT/mazG/relA/nfuA/yhjX/malE/yjiY	17
+126	Both.down	Both	down	GO:1901606	alpha-amino acid catabolic process	10/249	35/2531	0.0014093025795242	0.0601942556655398	0.0567072453465525	pflB/sad/astE/astB/astD/astA/astC/yqeA/tnaA/adiA	10
+127	Both.down	Both	down	GO:0009063	cellular amino acid catabolic process	11/249	41/2531	0.0014488770510305	0.0601942556655398	0.0567072453465525	asnB/pflB/sad/astE/astB/astD/astA/astC/yqeA/tnaA/adiA	11
+128	Both.down	Both	down	GO:0031669	cellular response to nutrient levels	9/249	30/2531	0.00167369472831178	0.0665111731163898	0.0626582282727247	ahpC/appA/phoQ/relE/zinT/mazG/nfuA/yhjX/yjiY	9

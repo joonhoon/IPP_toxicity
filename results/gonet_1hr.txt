@@ -1,0 +1,263 @@
+'de novo' posttranslational protein folding	GO	dnaK
+'de novo' posttranslational protein folding	GO	groS
+'de novo' posttranslational protein folding	GO	groL
+ammonium transport	GO	potF
+ammonium transport	GO	potG
+ammonium transport	GO	potI
+ammonium transport	GO	yehX
+ammonium transport	GO	osmF
+anaerobic electron transport chain	GO	narI
+anaerobic electron transport chain	GO	narY
+anaerobic electron transport chain	GO	narZ
+arginine catabolic process to succinate	GO	astB
+arginine catabolic process to succinate	GO	astA
+arginine catabolic process to succinate	GO	astC
+aspartate family amino acid metabolic process	GO	mmuP
+aspartate family amino acid metabolic process	GO	pflB
+aspartate family amino acid metabolic process	GO	pta
+aspartate family amino acid metabolic process	GO	metK
+aspartate family amino acid metabolic process	GO	tdcB
+aspartate family amino acid metabolic process	GO	metE
+aspartate family amino acid metabolic process	GO	metB
+aspartate family amino acid metabolic process	GO	metL
+aspartate family amino acid metabolic process	GO	cadA
+bacterial-type flagellum-dependent swarming motility	GO	flgB
+bacterial-type flagellum-dependent swarming motility	GO	flgE
+bacterial-type flagellum-dependent swarming motility	GO	flgG
+bacterial-type flagellum-dependent swarming motility	GO	fliL
+cellular monovalent inorganic cation homeostasis	GO	nhaA
+cellular monovalent inorganic cation homeostasis	GO	gadC
+cellular monovalent inorganic cation homeostasis	GO	gadB
+cellular monovalent inorganic cation homeostasis	GO	gadA
+cellular response to nutrient levels	GO	tauB
+cellular response to nutrient levels	GO	tauC
+cellular response to nutrient levels	GO	rhsD
+cellular response to nutrient levels	GO	cstA
+cellular response to nutrient levels	GO	ypdA
+cellular response to nutrient levels	GO	yhjX
+cellular response to nutrient levels	GO	phoU
+cellular response to nutrient levels	GO	pstS
+cellular response to nutrient levels	GO	yjiY
+glutathione transport	GO	gsiA
+glutathione transport	GO	gsiC
+glutathione transport	GO	gsiD
+glutathione transport	GO	cydD
+glycine catabolic process	GO	glyA
+glycine catabolic process	GO	gcvH
+glycine catabolic process	GO	gcvT
+glyoxylate cycle	GO	prpB
+glyoxylate cycle	GO	acnA
+glyoxylate cycle	GO	glcB
+glyoxylate cycle	GO	aceB
+glyoxylate cycle	GO	aceA
+glyoxylate cycle	GO	aceK
+hyperosmotic response	GO	osmC
+hyperosmotic response	GO	katE
+hyperosmotic response	GO	osmF
+hyperosmotic response	GO	treF
+IMP metabolic process	GO	purC
+IMP metabolic process	GO	purL
+IMP metabolic process	GO	purA
+iron-sulfur cluster assembly	GO	sufS
+iron-sulfur cluster assembly	GO	sufD
+iron-sulfur cluster assembly	GO	sufC
+iron-sulfur cluster assembly	GO	sufB
+iron-sulfur cluster assembly	GO	sufA
+lipopolysaccharide core region biosynthetic process	GO	rfaZ
+lipopolysaccharide core region biosynthetic process	GO	rfaY
+lipopolysaccharide core region biosynthetic process	GO	rfaI
+lipopolysaccharide core region biosynthetic process	GO	rfaB
+lipopolysaccharide core region biosynthetic process	GO	rfaS
+locomotion	GO	flgB
+locomotion	GO	flgE
+locomotion	GO	flgG
+locomotion	GO	cheZ
+locomotion	GO	cheY
+locomotion	GO	tap
+locomotion	GO	fliL
+locomotion	GO	fliM
+methionine metabolic process	GO	mmuP
+methionine metabolic process	GO	metK
+methionine metabolic process	GO	metE
+methionine metabolic process	GO	metB
+ncRNA processing	GO	thiI
+ncRNA processing	GO	ybeA
+ncRNA processing	GO	rne
+ncRNA processing	GO	trmU
+ncRNA processing	GO	ymfC
+ncRNA processing	GO	yecP
+ncRNA processing	GO	rsuA
+ncRNA processing	GO	mnmC
+ncRNA processing	GO	dusB
+ncRNA processing	GO	yheL
+ncRNA processing	GO	hslR
+ncRNA processing	GO	trmH
+ncRNA processing	GO	rnpA
+ncRNA processing	GO	gidB
+ncRNA processing	GO	gidA
+nitrogen compound transport	GO	ftsW
+nitrogen compound transport	GO	tatE
+nitrogen compound transport	GO	gsiA
+nitrogen compound transport	GO	gsiC
+nitrogen compound transport	GO	potH
+nitrogen compound transport	GO	putP
+nitrogen compound transport	GO	potD
+nitrogen compound transport	GO	potC
+nitrogen compound transport	GO	sapB
+nitrogen compound transport	GO	yddG
+nitrogen compound transport	GO	ddpA
+nitrogen compound transport	GO	lysP
+nitrogen compound transport	GO	yejE
+nitrogen compound transport	GO	yfdC
+nitrogen compound transport	GO	eamB
+nitrogen compound transport	GO	argO
+nitrogen compound transport	GO	nirC
+nitrogen compound transport	GO	yhiP
+nitrogen compound transport	GO	dppF
+nitrogen compound transport	GO	dppD
+nitrogen compound transport	GO	dppC
+nitrogen compound transport	GO	secB
+nitrogen compound transport	GO	ytfN
+oligopeptide transmembrane transport	GO	gsiA
+oligopeptide transmembrane transport	GO	gsiC
+oligopeptide transmembrane transport	GO	gsiD
+oligopeptide transmembrane transport	GO	cydD
+oligopeptide transmembrane transport	GO	ydeE
+oligopeptide transmembrane transport	GO	mdtK
+oligopeptide transport	GO	gsiA
+oligopeptide transport	GO	gsiC
+oligopeptide transport	GO	sapB
+oligopeptide transport	GO	ddpA
+oligopeptide transport	GO	yhiP
+oligopeptide transport	GO	dppF
+oligopeptide transport	GO	dppD
+oligopeptide transport	GO	dppC
+organelle organization	GO	rhlE
+organelle organization	GO	mfd
+organelle organization	GO	ydeH
+organelle organization	GO	deaD
+organelle organization	GO	obgE
+organelle organization	GO	fis
+organelle organization	GO	rplE
+organelle organization	GO	recG
+organelle organization	GO	rep
+organelle organization	GO	dnaB
+pH elevation	GO	gadC
+pH elevation	GO	gadB
+pH elevation	GO	gadA
+phosphate ion transport	GO	phoU
+phosphate ion transport	GO	pstB
+phosphate ion transport	GO	pstA
+phosphate ion transport	GO	pstS
+pyrimidine nucleotide biosynthetic process	GO	pyrH
+pyrimidine nucleotide biosynthetic process	GO	pyrF
+pyrimidine nucleotide biosynthetic process	GO	udk
+pyrimidine nucleotide biosynthetic process	GO	frcK
+pyrimidine nucleotide biosynthetic process	GO	pyrB
+pyrimidine ribonucleoside monophosphate biosynthetic process	GO	pyrF
+pyrimidine ribonucleoside monophosphate biosynthetic process	GO	udk
+pyrimidine ribonucleoside monophosphate biosynthetic process	GO	frcK
+pyrimidine ribonucleotide biosynthetic process	GO	pyrF
+pyrimidine ribonucleotide biosynthetic process	GO	udk
+pyrimidine ribonucleotide biosynthetic process	GO	frcK
+pyrimidine ribonucleotide biosynthetic process	GO	pyrB
+response to heat	GO	dnaK
+response to heat	GO	dnaJ
+response to heat	GO	lon
+response to heat	GO	htpG
+response to heat	GO	clpB
+response to heat	GO	grpE
+response to heat	GO	pnp
+response to heat	GO	ibpB
+response to heat	GO	ibpA
+response to heat	GO	hslV
+response to heat	GO	groS
+response to heat	GO	groL
+response to nutrient levels	GO	tauB
+response to nutrient levels	GO	tauC
+response to nutrient levels	GO	rhsD
+response to nutrient levels	GO	cstA
+response to nutrient levels	GO	ypdA
+response to nutrient levels	GO	relA
+response to nutrient levels	GO	yhjX
+response to nutrient levels	GO	phoU
+response to nutrient levels	GO	pstS
+response to nutrient levels	GO	yjiY
+response to osmotic stress	GO	osmC
+response to osmotic stress	GO	katE
+response to osmotic stress	GO	osmE
+response to osmotic stress	GO	otsB
+response to osmotic stress	GO	osmF
+response to osmotic stress	GO	treF
+response to osmotic stress	GO	osmY
+response to pH	GO	ybaT
+response to pH	GO	yodD
+response to pH	GO	hchA
+response to pH	GO	hdeB
+response to pH	GO	hdeA
+response to pH	GO	hdeD
+response to stress	GO	copA
+response to stress	GO	appY
+response to stress	GO	dps
+response to stress	GO	ycgB
+response to stress	GO	hslJ
+response to stress	GO	narY
+response to stress	GO	osmC
+response to stress	GO	sodC
+response to stress	GO	sufD
+response to stress	GO	sufA
+response to stress	GO	btuE
+response to stress	GO	pfkB
+response to stress	GO	ydiZ
+response to stress	GO	katE
+response to stress	GO	osmE
+response to stress	GO	yobF
+response to stress	GO	otsB
+response to stress	GO	yodD
+response to stress	GO	sbmC
+response to stress	GO	osmF
+response to stress	GO	yohC
+response to stress	GO	ompC
+response to stress	GO	elaB
+response to stress	GO	gadW
+response to stress	GO	treF
+response to stress	GO	asnA
+response to stress	GO	argB
+response to stress	GO	purD
+response to stress	GO	purA
+response to stress	GO	aidB
+response to stress	GO	osmY
+ribonucleoprotein complex biogenesis	GO	ybeA
+ribonucleoprotein complex biogenesis	GO	rhlE
+ribonucleoprotein complex biogenesis	GO	rne
+ribonucleoprotein complex biogenesis	GO	ymfC
+ribonucleoprotein complex biogenesis	GO	rsuA
+ribonucleoprotein complex biogenesis	GO	deaD
+ribonucleoprotein complex biogenesis	GO	obgE
+ribonucleoprotein complex biogenesis	GO	rpmJ
+ribonucleoprotein complex biogenesis	GO	rplE
+ribonucleoprotein complex biogenesis	GO	hslR
+ribonucleoprotein complex biogenesis	GO	gidB
+sulfur compound metabolic process	GO	fadD
+sulfur compound metabolic process	GO	cysK
+sulfur compound metabolic process	GO	cysM
+sulfur compound metabolic process	GO	cysW
+sulfur compound metabolic process	GO	iscA
+sulfur compound metabolic process	GO	iscU
+sulfur compound metabolic process	GO	cysN
+sulfur compound metabolic process	GO	cysD
+sulfur compound metabolic process	GO	cysH
+sulfur compound metabolic process	GO	sbp
+tRNA wobble uridine modification	GO	trmU
+tRNA wobble uridine modification	GO	yecP
+tRNA wobble uridine modification	GO	mnmC
+tRNA wobble uridine modification	GO	yheL
+tRNA wobble uridine modification	GO	gidA
+tryptophan biosynthetic process	GO	trpB
+tryptophan biosynthetic process	GO	trpC
+tryptophan biosynthetic process	GO	trpD
+tryptophan biosynthetic process	GO	trpE
+viral process	GO	dnaJ
+viral process	GO	ygcJ
+viral process	GO	groS
+viral process	GO	groL
